@@ -71,6 +71,6 @@ export const SERVICES_DATA: ServiceItem[] = [
 
 export const CLIENT_STATS_DATA = [
   { value: "Personalize", label: "Projetos Sob Medida para a sua Marca" },
-  { value: "Flexivel", label: "Especialidades Integradas" },
+  { value: "Flexível", label: "Especialidades Integradas" },
   { value: "100%", label: "Compromisso com Resultados" }
 ];
